@@ -914,6 +914,7 @@ img {
 /*==================== FOOTER ====================*/
 .footer {
     padding-top: 2rem;
+    text-align: center;
 }
 
 .footer__container {
